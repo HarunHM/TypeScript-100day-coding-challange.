@@ -1,7 +1,9 @@
-var number_one:number = 100;
-var number_two:number =  20;
+var number_one:number = 100
+var number_two:number =  20
+var res:number = 0
 
-/*+Addition*/
-var sum_result: number = number_one + number_two; 
+/*+Addition*/ 
 
-console.log(sum_result);
+res = number_one + number_two; 
+console.log("The sum of number_1 and number_two = " +res);
+
