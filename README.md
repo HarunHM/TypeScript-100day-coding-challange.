@@ -5,12 +5,13 @@ This organization is defined by how we add and remove data. We could dream up hu
   
 <p style="text-align:justify;" > Linked lists, stacks, and queues are the most elementary of these data structures. </p>
 <p style="text-align:justify;">Data structures differ from each other by the manner in which they organize data. We define the rules for this system of organization by providing a set of special methods: </p>
+
+1). An insert method for inserting an item into the data structure. <br>
+2). A remove method for removing an item.<br>
+3). An isEmpty method to test whether any items are present. <br>
 <ul>
-<li>Design Patterns. </li>
-<li>Singleton.</li>
-<li>Factory.</li>
-<li>Builder.</li>
-<li>Algorithms & Data Structures.</li>
+<caption>Algorithms & Data Structures.</caption>
+  Maj
 <li>Binary Tree.</li>
 <li>Insertion Sort.</li>
 <li>Selection Sort.</li>
